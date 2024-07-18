@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aschershapiro
 - 👀 I’m interested in Embedded and desktop software development
-- 🌱 I’m currently learning Julia
-- 📫 Contact me @ p.hajipur@live.com
+- 🌱 I’m currently learning Embbeded programming for ST microprocessors
+- 📫 Contact me @ aschershapiro@outlook.com
 
 <!---
 aschershapiro/aschershapiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
